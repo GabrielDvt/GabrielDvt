@@ -2,7 +2,7 @@
 
 > Graduado em Engenharia da Computação pela Universidade Federal de Goiás
 
-> Atua no desenvolvimento mobile e backend na [Simeon](https://www.simeon.com.br)
+> Atuo no desenvolvimento mobile e backend na [Simeon](https://www.simeon.com.br)
 
 ## 🔭 Participação nos projetos
 
@@ -109,5 +109,10 @@
 [<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png?_ga=2.181001442.493150008.1620094478-1413374607.1620094469" alt="LinkedIn"/>](https://www.linkedin.com/in/gabriel-augusto-de-vito-d-guimar%C3%A3es-71319b60/)
 [<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/whatsapp_64.png?_ga=2.156384766.493150008.1620094478-1413374607.1620094469" alt="Whatsapp"/>](https://wa.me/556283442860)
 [<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" alt="Gitlab"/>](https://gitlab.com/gabriel.dvt)
+
+---
+
+## Meu CV
+[<img height="32" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Gitlab"/>](https://gabrieldvt.github.io)
 
 
