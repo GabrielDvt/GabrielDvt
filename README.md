@@ -68,13 +68,13 @@
 ---
 
 
-## Empresas por onde passei
+## Empresas onde trabalhei
 
 
-- Simeon
-- Poli
-- AB Sistemas
-- Ministério Público de Goiás
+- [Simeon](https://simeon.com.br)
+- [Poli](https://polichat.com.br/)
+- [AB Sistemas](https://www.absistemas.com.br/)
+- [Ministério Público de Goiás](https://www.mpgo.mp.br/portal)
 
 
 ----
