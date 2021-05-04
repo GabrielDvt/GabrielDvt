@@ -1,10 +1,25 @@
-## Olá, meu nome é <strong>Gabriel Augusto De Vito!</strong>
+## Olá, meu nome é <strong>Gabriel Augusto</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Sou graduado em Engenharia da Computação pela Universidade Federal de Goiás
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+> Atuo no desenvolvimento mobile e backend na [Simeon](https://www.simeon.com.br)
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+## 🔭 Projetos desenvolvidos
+
+### EPA (Estratégia Para Ação)
+<code>
+  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="react-native"/></code> 
+[Link](https://play.google.com/store/apps/details?id=com.epaapp)
+
+### [ESP (Escolha Seu Plano)](https://play.google.com/store/apps/details?id=com.espapp)
+
+### [Nato SETA](https://play.google.com/store/apps/details?id=com.natoseta)
+
+### [MyFiis](https://play.google.com/store/apps/details?id=com.myfiis)
+
+## 💬 Contato
+[<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png?_ga=2.181001442.493150008.1620094478-1413374607.1620094469" alt="LinkedIn"/>](https://www.linkedin.com/in/gabriel-augusto-de-vito-d-guimar%C3%A3es-71319b60/)
+[<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/whatsapp_64.png?_ga=2.156384766.493150008.1620094478-1413374607.1620094469" alt="Whatsapp"/>](https://wa.me/556283442860)
 
 ----
 
