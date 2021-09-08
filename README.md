@@ -2,7 +2,7 @@
 
 > Graduado em Engenharia da Computação pela Universidade Federal de Goiás
 
-> Atuo no desenvolvimento mobile e backend na [Simeon](https://www.simeon.com.br)
+> Atuo no desenvolvimento mobile e backend na [Pivot Irrigação](https://pivot.com.br/)
 
 ## 🔭 Participação nos projetos
 
