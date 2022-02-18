@@ -2,7 +2,7 @@
 
 > Graduado em Engenharia da Computação pela Universidade Federal de Goiás
 
-> Atua no desenvolvimento mobile e backend na [Pivot Irrigação](https://pivot.com.br/)
+> Atua no desenvolvimento Full Stack e Mobile na [Pivot Irrigação](https://pivot.com.br/)
 
 
 ---
