@@ -8,10 +8,9 @@ I'm graduated in Computer Engineer in Universidade Federal de Goiás
 
 I'm a full stack web developer and also make mobile applications using React Native
 
-I Recently work for [Pivot Irrigação](https://pivot.com.br/) and also make a few side projects 
+I'm recently working for [Pivot Irrigação](https://pivot.com.br/) and also making a few side projects 
 
 My main stack is ReactJS, React Native, NodeJS, PHP, Laravel, MySQL 
-
 
 ## Projects I have worked on
 - [Pivot Irrigação](https://pivot.com.br/)
