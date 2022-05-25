@@ -13,9 +13,9 @@ I'm recently working for [Pivot Irrigação](https://pivot.com.br/) and also mak
 My main stack is ReactJS, React Native, NodeJS, PHP, Laravel, MySQL 
 
 ## Projects I have worked on
-- [Pivot Irrigação](https://pivot.com.br/)
+- [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
 - [Nato App](https://nato.arq.br/)
-- [Simeon](https://simeon.com.br/)
+- [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
 - [Polichat](https://polichat.com.br)
 
 ## 🚀 My Skills
