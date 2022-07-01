@@ -14,7 +14,7 @@ My main stack is ReactJS, React Native, NodeJS, PHP, Laravel, MySQL
 
 ## Projects I have worked on
 - [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
-- [Nato App](https://nato.arq.br/)
+- [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
 - [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
 - [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
 - [MyFiis](https://play.google.com/store/apps/details?id=com.myfiis)
