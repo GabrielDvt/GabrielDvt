@@ -15,7 +15,7 @@ Main Techs:
 - React Native
 - MySQL
 
-## Companies and Projects
+## Companies and Projects I've worked for
 - [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
 - [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
 - [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
