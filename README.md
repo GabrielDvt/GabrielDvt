@@ -12,6 +12,7 @@ Main Techs:
 - Laravel
 - NodeJS
 - ReactJS
+- Typescript
 - React Native
 - MySQL
 
