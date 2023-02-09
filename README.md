@@ -19,6 +19,7 @@ Main Techs:
 ## Companies and Projects I've worked for
 - [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
 - [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
+- [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
 - [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
 - [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
 - [MyFiis](https://play.google.com/store/apps/details?id=com.myfiis)
