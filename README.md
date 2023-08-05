@@ -4,7 +4,7 @@
 
 Computer Engineer
 
-5 Years of experience in Web development
+6 Years of experience in Web development
 
 3 Years of experience in Mobile Development using React Native
 
@@ -16,14 +16,17 @@ Main Techs:
 - React Native
 - MySQL
 
-## Companies and Projects I've worked for
+## Companies 
 - [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
+- [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
+- [Polichat](https://polichat.com.br)
+
+## Other Projects
+- [Me Conta App](https://apps.apple.com/br/app/me-conta-app/id6449380049)
 - [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
 - [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
-- [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
 - [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
 - [MyFiis](https://play.google.com/store/apps/details?id=com.myfiis)
-- [Polichat](https://polichat.com.br)
 
 ----
 
