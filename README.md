@@ -10,19 +10,17 @@ Computer Engineer
 
 Main Techs:
 - Laravel
-- NodeJS
+- NodeJS / NestJS
 - ReactJS
-- Typescript
+- Javascript / Typescript
 - React Native
 - MySQL
 
-## Companies 
+## Projects
+- [Me Conta App](https://apps.apple.com/br/app/me-conta-app/id6449380049)
 - [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
 - [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
 - [Polichat](https://polichat.com.br)
-
-## Other Projects
-- [Me Conta App](https://apps.apple.com/br/app/me-conta-app/id6449380049)
 - [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
 - [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
 - [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
