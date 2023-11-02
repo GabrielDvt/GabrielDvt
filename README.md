@@ -4,7 +4,7 @@
 
 Computer Engineer
 
-6 Years of experience in Web development
+7 Years of experience in Web development
 
 3 Years of experience in Mobile Development using React Native
 
