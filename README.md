@@ -4,9 +4,9 @@
 
 Computer Engineer
 
-7 Years of experience in Web development
+8 Years of experience in Web development
 
-3 Years of experience in Mobile Development using React Native
+4 Years of experience in Mobile Development using React Native
 
 Main Techs:
 - Laravel
