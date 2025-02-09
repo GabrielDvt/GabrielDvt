@@ -24,7 +24,7 @@ Main Techs:
 - [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
 - [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
 - [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
-- [MyFiis]([https://play.google.com/store/apps/details?id=com.myfiis](https://myfiis.com.br/))
+- [MyFiis](https://myfiis.com.br/)
 
 ----
 
