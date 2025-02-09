@@ -17,15 +17,17 @@ Main Techs:
 - MySQL
 
 ## Projects
-- [Me Conta App](https://apps.apple.com/br/app/me-conta-app/id6449380049)
-- [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
-- [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
-- [Polichat](https://polichat.com.br)
-- [Nato App](https://play.google.com/store/apps/details?id=com.natoseta)
-- [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
-- [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp)
-- [MyFiis](https://myfiis.com.br/)
 
+- Working for [Pivot Irrigação](https://pivot.com.br/) - Internal CRM and Mobile Application
+- [EPA App (Simeon)](https://play.google.com/store/apps/details?id=com.epaapp&hl=pt)
+- [MyFiis](https://myfiis.com.br/)
+- [FnF Esports](https://fnfesports.com/)
+- Worked for [Polichat](https://polichat.com.br)
+- Freelance work for [Clínica Vittá](https://www.clinicavittagoiania.com.br/)
+- [ESP Benefícios](https://play.google.com/store/apps/details?id=com.espapp) - deprecated
+- [Me Conta App](https://apps.apple.com/br/app/me-conta-app/id6449380049) - deprecated
+- [Nato App](https://play.google.com/store/apps/details?id=com.natoseta) - deprecated
+  
 ----
 
 ## 💬 Contact
