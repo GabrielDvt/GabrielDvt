@@ -20,7 +20,6 @@ Tech Stack:
 
 ## 💬 Contact
 [<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png?_ga=2.181001442.493150008.1620094478-1413374607.1620094469" alt="LinkedIn"/>](https://www.linkedin.com/in/gabriel-augusto-de-vito-d-guimar%C3%A3es-71319b60/)
-[<img height="32" src="https://cdn.exclaimer.com/Handbook%20Images/whatsapp_64.png?_ga=2.156384766.493150008.1620094478-1413374607.1620094469" alt="Whatsapp"/>](https://wa.me/556283442860)
 
 ---
 
