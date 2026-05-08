@@ -4,13 +4,13 @@
 
 Computer Engineer | Software Engineer | Full Stack
 
-8 Years of experience in Web development
+9 Years of experience in Web development
 
 4 Years of experience in Mobile Development using React Native
 
 Tech Stack:
 - Laravel
-- NodeJS / NestJS
+- NodeJS / NestJS / NextJS 
 - ReactJS
 - Javascript / Typescript
 - React Native
